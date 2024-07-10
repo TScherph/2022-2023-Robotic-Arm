@@ -1,8 +1,18 @@
 # Robotic-Arm-2022
 Individual High School Senior Design Project 2022 creating a 3d printed robotic hand and arm
+
 ![Screenshot 2023-05-21 191856](https://github.com/TScherph/Robotic-Arm-2022/assets/147080935/82894409-77ce-4a53-8291-f2b012851c85)
+
+https://github.com/TScherph/Robotic-Arm-2022/assets/147080935/0c7fabfe-fba3-4cce-bbdb-8780fc61444e
+
+
 How does the arm work:
 CAD: 
+![Screenshot 2024-07-10 105949](https://github.com/TScherph/Robotic-Arm-2022/assets/147080935/46da6ce6-f62a-4422-bb12-7e9994e1bc19)
+
+
+
+
 The cad consists of 4 main areas.
 
 The fingers:
