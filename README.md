@@ -9,8 +9,8 @@ How does the arm work:
 
 CAD: 
 
+![IMG_2448](https://github.com/TScherph/Robotic-Arm-2022/assets/147080935/77d6bd1c-8541-480c-830b-3fc2c48549bf)
 
-https://cdn.discordapp.com/attachments/1156343721588166676/1260612260087205968/IMG_2448.png?ex=668ff427&is=668ea2a7&hm=0f13ab30221cbbaa7dc15f9fa14fc70a868e2202226737c3c38873be06b0ab1e&
 
 
 
